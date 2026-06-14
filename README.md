@@ -1,153 +1,169 @@
 # What’s Your IQ 🧠
 
-An online IQ test platform focused on clarity, usability, and real user intent.
+**What's Your IQ** is a growing intelligence platform featuring IQ tests, full cognitive assessments, brain training exercises, logic puzzles, pattern-recognition challenges, historical IQ tests, famous IQ profiles, and educational content about intelligence.
+
+🌐 https://whats-your-iq.com
 
 ---
 
-## 🌍 About the Project
+## Explore Intelligence
 
-**What’s Your IQ** is a web based platform designed to help people answer a simple but deeply human question:
+The platform is designed around a simple idea:
 
-> *What is my IQ?*
+> Intelligence should be tested, trained, explored, and understood.
 
-Rather than focusing on labels or competition, the project emphasizes understanding, transparency, and a smooth user experience. Users complete a structured IQ test and receive a clear explanation of their result, not just a number.
-
-The project is also used as a real world experiment in:
-
-* SEO and search intent analysis
-* Content driven product growth
-* AI assisted content workflows
-* Long term usability and trust building
-
-Live website:
-[https://whats-your-iq.com/](https://whats-your-iq.com/)
+Whether you're looking to measure your IQ, improve your reasoning skills, solve challenging puzzles, or learn about the history of intelligence testing, What's Your IQ provides a structured collection of tools and resources in one place.
 
 ---
 
-## ✨ Key Features
+## 🧠 IQ Tests
 
-* Online IQ test with a structured question flow
-* Instant result calculation
-* Clear and human readable result explanations
-* Mobile and desktop friendly design
-* SEO focused content architecture
-* Supporting informational content around IQ and intelligence
+https://whats-your-iq.com/en
 
----
+Take online IQ tests and receive instant results with clear explanations.
 
-## 🔍 Why This Project Exists
+Features include:
 
-Search engines are full of people asking questions like:
-
-* what is my iq
-* what’s your iq
-* whats my iq
-* free iq test with results
-* calculate your iq
-* how do i figure out my iq
-
-Many existing sites either overwhelm users or provide unclear results. This project aims to sit in the middle, offering clarity without unnecessary complexity.
+* Multiple IQ tests
+* Instant score calculation
+* Result interpretation
+* Mobile-friendly experience
+* Free access
 
 ---
 
-## 🧠 Content and SEO Strategy
+## 🎯 Full IQ Tests
 
-The site is built around search intent rather than keyword stuffing.
+https://whats-your-iq.com/en/full-iq-tests
 
-### Core Pages
-
-* Main IQ test page
-* Result explanation pages
-
-### Supporting Content
-
-* Articles explaining IQ concepts
-* Common misconceptions about intelligence
-* Guidance on interpreting scores
-
-Some supporting content is generated with the help of AI and then reviewed, edited, and refined manually. AI is used as a drafting tool, not as a replacement for judgment.
-
-The goal is relevance and usefulness, not volume.
+For users seeking more comprehensive assessments, the platform includes a dedicated collection of full-length IQ tests covering a broader range of reasoning abilities and cognitive skills.
 
 ---
 
-## ⚙️ Technical Overview
+## 🏋️ Brain Training
 
-While the repository itself is minimal, the project focuses on:
+https://whats-your-iq.com/en/training
 
-* Clean and simple architecture
-* Fast page load times
-* Clear URL structure
-* Logical internal linking
+Intelligence is not only about testing.
 
-Technical decisions are driven by user experience first, SEO second.
+The Brain Training section provides exercises designed to strengthen:
 
----
-
-## 💡 Monetization Philosophy
-
-Trust is essential for content driven platforms, especially those dealing with personal topics like intelligence.
-
-Monetization decisions are evaluated carefully to avoid damaging credibility. Learning, iteration, and long term sustainability currently matter more than short term revenue.
+* Pattern recognition
+* Logical reasoning
+* Problem solving
+* Visual analysis
+* Cognitive flexibility
 
 ---
 
-## 🚀 Roadmap
+## 🧩 Logic Puzzles & Cognitive Challenges
 
-Planned and ongoing improvements include:
+https://whats-your-iq.com/en/questions
 
-* Better search intent alignment on content pages
-* Improved result explanations
-* UX refinements based on user behavior
-* Performance optimizations
-* Content quality improvements
+A large and growing collection of brain teasers, visual puzzles, IQ-style challenges, and reasoning exercises.
 
-This project is intentionally iterative.
+Categories include:
 
----
+* Pattern Recognition
+* Logic Challenges
+* Visual Reasoning
+* Sequence Problems
+* Spatial Thinking
 
-## 🤝 Contributing
-
-This is currently a solo project, but feedback, suggestions, and discussions are welcome.
-
-If you have experience with:
-
-* SEO for content driven sites
-* UX for self assessment tools
-* AI assisted content pipelines
-
-Feel free to open an issue or start a discussion.
+Every challenge is designed to encourage critical thinking and discussion.
 
 ---
 
-## 📌 About the Author
+## 🔍 Pattern Recognition Challenges
 
-I build curiosity driven web products focused on clarity and real user behavior.
+https://whats-your-iq.com/en/questions/pattern-recognition
 
-I am interested in:
+Pattern recognition is one of the most important components of many intelligence tests.
 
-* SEO and content strategy
-* Product thinking
-* AI assisted workflows
-* Long term product sustainability
-
-Good software starts with understanding people, not just metrics.
+This section focuses entirely on discovering relationships, sequences, transformations, and hidden structures within visual problems.
 
 ---
 
-## 🔗 Links
+## 📚 Historical IQ Tests
 
-* Website: [https://whats-your-iq.com/](https://whats-your-iq.com/)
-* Project Profile: [https://github.com/whatsyouriq01](https://github.com/whatsyouriq01)
+https://whats-your-iq.com/en/historical-iq-tests
+
+Explore intelligence tests from different periods of history and see how IQ testing has evolved over time.
+
+Learn about:
+
+* Early intelligence testing
+* Historical assessment methods
+* Classic IQ questions
+* The evolution of cognitive measurement
 
 ---
 
-## 🏷️ Topics / Tags
+## 🌟 Famous IQ Profiles
 
-`iq-test` `online-test` `seo` `content-strategy` `web-project` `side-project` `build-in-public` `ai-content` `search-intent` `self-improvement` `intelligence-test` `education` `ux` `growth`
+https://whats-your-iq.com/en/famous-iqs
+
+Discover the estimated and documented IQ scores of scientists, inventors, mathematicians, writers, world leaders, and other notable figures.
+
+Profiles include background information, achievements, and discussions surrounding reported IQ estimates.
 
 ---
 
-## 📄 License
+## 🧠 Intelligence Knowledge Base
 
-This project is provided for informational purposes. Licensing terms may be added in the future.
+The platform also contains educational content covering:
+
+* What IQ means
+* How IQ is measured
+* Common misconceptions
+* Intelligence research
+* Cognitive development
+* Problem-solving techniques
+
+---
+
+## Why What's Your IQ?
+
+Unlike many IQ websites that focus solely on generating a score, What's Your IQ combines:
+
+* IQ Testing
+* Full Cognitive Assessments
+* Brain Training
+* Logic Puzzles
+* Pattern Recognition
+* Historical IQ Research
+* Famous IQ Profiles
+* Educational Content
+
+into a single platform dedicated to exploring human intelligence from multiple perspectives.
+
+---
+
+## Links
+
+Website
+https://whats-your-iq.com
+
+IQ Tests
+https://whats-your-iq.com/en
+
+Full IQ Tests
+https://whats-your-iq.com/en/full-iq-tests
+
+Brain Training
+https://whats-your-iq.com/en/training
+
+Questions & Challenges
+https://whats-your-iq.com/en/questions
+
+Pattern Recognition
+https://whats-your-iq.com/en/questions/pattern-recognition
+
+Historical IQ Tests
+https://whats-your-iq.com/en/historical-iq-tests
+
+Famous IQ Profiles
+https://whats-your-iq.com/en/famous-iqs
+
+GitHub
+https://github.com/whatsyouriq01
