@@ -34,7 +34,7 @@ Features include:
 
 ## 🎯 Full IQ Tests
 
-https://whats-your-iq.com/en/full-iq-tests
+https://whats-your-iq.com/en/full-iq-test
 
 For users seeking more comprehensive assessments, the platform includes a dedicated collection of full-length IQ tests covering a broader range of reasoning abilities and cognitive skills.
 
@@ -147,8 +147,8 @@ https://whats-your-iq.com
 IQ Tests
 https://whats-your-iq.com/en
 
-Full IQ Tests
-https://whats-your-iq.com/en/full-iq-tests
+Full IQ Test
+https://whats-your-iq.com/en/full-iq-test
 
 Brain Training
 https://whats-your-iq.com/en/training
